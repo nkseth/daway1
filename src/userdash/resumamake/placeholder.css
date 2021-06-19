@@ -1,0 +1,8 @@
+.in {
+background-color:white;
+font-size: 20px
+  
+  }
+  .in::placeholder{
+      color:'black'
+  }
